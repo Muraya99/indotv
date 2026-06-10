@@ -18,7 +18,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541177&exte
 
 #EXTINF:0,CELESTIAL MOVIES
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a09m/index.m3u8
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289810.ts
 
 #EXTINF:0,CELESTIAL CLASSIC MOVIES
 #EXTGRP:VISION+
@@ -62,11 +62,11 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856370&exte
 
 #EXTINF:0,HBO
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
+http://103.148.44.38:8000/play/a09a/index.m3u8
 
 #EXTINF:0,HBO family
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
+http://103.148.44.38:8000/play/a09d/index.m3u8
 
 #EXTINF:0,HBO HiTS
 #EXTGRP:VISION+
@@ -82,7 +82,7 @@ http://103.148.44.38:8000/play/a09e/index.m3u8
 
 #EXTINF:0,CinemaWorld
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a02l/index.m3u8
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1505821
 
 #EXTINF:0,AXN
 #EXTGRP:VISION+
@@ -90,7 +90,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541210&exte
 
 #EXTINF:0,ZBIOSKOP
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/584501.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541105&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:0,ANIMAX
 #EXTGRP:VISION+
@@ -98,7 +98,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541213&exte
 
 #EXTINF:0,ANIPLUS
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a01m/index.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856298&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:0,Hunan TV
 #EXTGRP:VISION+
@@ -106,7 +106,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541169&exte
 
 #EXTINF:0,CNBC INDONESIA
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/1247963.ts
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289823.ts
 
 #EXTINF:0,CNN INDONESIA
 #EXTGRP:VISION+
@@ -118,7 +118,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541189&exte
 
 #EXTINF:0,DAAI TV
 #EXTGRP:VISION+
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:0,DREAMWORK
 #EXTGRP:VISION+
@@ -138,15 +138,15 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541192&exte
 
 #EXTINF:0,beIN SPORTS 1
 #EXTGRP:VISION+
-http://iptv.watchhd.cc:5050/live/didi1909/8mMDqRPor23t/1730.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=595835&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:0,beIN SPORTS 2
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/1052426.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=595834&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:0,beIN SPORTS 3
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/1052430.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=595833&extension=ts&play_token=J4RzsLFWgA
 
 #EXTINF:0,FIGHT SPORTS
 #EXTGRP:VISION+
@@ -162,7 +162,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541167&exte
 
 #EXTINF:0,iNews
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541166&extension=ts&play_token=J4RzsLFWgA
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289912.ts
 
 #EXTINF:0,Jiangsu TV
 #EXTGRP:VISION+
