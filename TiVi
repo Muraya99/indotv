@@ -428,7 +428,7 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/cnbindo.m3u8
 
 #EXTINF:0,Bloomberg
 #EXTGRP:Berita hiburan
-
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
 #EXTINF:0,BBC NEWS
 #EXTGRP:Berita hiburan
