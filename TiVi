@@ -198,7 +198,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:0,MNC TV
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/584546.ts
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/MNC.m3u8
 
 #EXTINF:0,Musik Indonesia
 #EXTGRP:VISION+
