@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" group-title="Indonesian", SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
