@@ -468,7 +468,7 @@ http://103.148.44.38:8000/play/a05a/index.m3u8
 
 #EXTINF:0,TRANS7
 #EXTGRP:Informasi hiburan
-https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/TRANS7.m3u8
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/7.m3u8
 
 #EXTINF:0,TRANSTV
 #EXTGRP:Informasi hiburan
