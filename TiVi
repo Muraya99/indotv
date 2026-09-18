@@ -233,7 +233,7 @@ http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=116
 
 #EXTINF:0,RCTI
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165855
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/RC.m3u8
 
 #EXTINF:0,ROCK entertainment
 #EXTGRP:VISION+
