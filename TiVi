@@ -394,6 +394,10 @@ http://103.148.44.38:8000/play/a03c/index.m3u8
 #EXTGRP:Berita hiburan
 https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/iNws.m3u8
 
+#EXTINF:0,SIN PO tv
+#EXTGRP:Berita hiburan
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/SP.m3u8
+
 #EXTINF:0,CNN INDONESIA
 #EXTGRP:Berita hiburan
 http://103.148.44.38:8000/play/a05q/index.m3u8
