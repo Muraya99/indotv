@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="antv" tvg-name="antv" group-title="Indonesian", antv
+#EXTINF:-1 tvg-id="antv" tvg-name="antv", antv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
