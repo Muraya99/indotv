@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="iNews" tvg-name="iNews" group-title="Indonesian", iNews TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
