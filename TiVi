@@ -392,7 +392,7 @@ http://103.148.44.38:8000/play/a03c/index.m3u8
 
 #EXTINF:0,iNEWS
 #EXTGRP:Berita hiburan
-http://103.66.62.83:8000/play/a00d/index.m3u8
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/iNws.m3u8
 
 #EXTINF:0,CNN INDONESIA
 #EXTGRP:Berita hiburan
