@@ -6,43 +6,43 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:0,FRANCE 24 (E)
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541179&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,GALAXY
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541178&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,GALAXY PREMIUM
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541177&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CELESTIAL MOVIES
 #EXTGRP:VISION+
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289810.ts
+
 
 #EXTINF:0,CELESTIAL CLASSIC MOVIES
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,Global Trekker
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541176&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,HISTORY
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541172&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,Discovery asia
 #EXTGRP:VISION+
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/272816.ts
+
 
 #EXTINF:0,Discovery
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a09q/index.m3u8
+
 
 #EXTINF:0,SMITHSONIAN CHANNEL
 #EXTGRP:VISION+
-http://103.176.90.182:80/play/live.php?mac=00:1A:79:D5:A6:B2&stream=469429&extension=ts
+
 
 #EXTINF:0,GTV
 #EXTGRP:VISION+
@@ -50,151 +50,151 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/G.m3u8
 
 #EXTINF:0,HITS
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541171&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,HITS MOVIES
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541170&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,HITS NOW
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856370&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,HBO
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a09a/index.m3u8
+
 
 #EXTINF:0,HBO family
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a09d/index.m3u8
+
 
 #EXTINF:0,HBO HiTS
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a02m/index.m3u8
+
 
 #EXTINF:0,HBO Signature
 #EXTGRP:VISION+
-http://zozotv.xyz:8080/live/DW3152A/@my8074/99.m3u8
+
 
 #EXTINF:0,CINEMAX
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a09e/index.m3u8
+
 
 #EXTINF:0,CinemaWorld
 #EXTGRP:VISION+
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1505821
+
 
 #EXTINF:0,AXN
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541210&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,ZBIOSKOP
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541105&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,ANIMAX
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541213&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,ANIPLUS
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1856298&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,Hunan TV
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541169&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CNBC INDONESIA
 #EXTGRP:VISION+
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289823.ts
+
 
 #EXTINF:0,CNN INDONESIA
 #EXTGRP:VISION+
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 
 #EXTINF:0,CRIME+INVESTIGATION
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541189&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,DAAI TV
 #EXTGRP:VISION+
-https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+
 
 #EXTINF:0,DREAMWORK
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541185&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,DW
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541184&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CGTN
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541193&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CGTN DOCUMENTARY
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541192&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 1
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=595835&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 2
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=595834&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 3
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=595833&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,FIGHT SPORTS
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541181&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,FOOD TRAVEL
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,imc
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541167&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,iNews
 #EXTGRP:VISION+
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289912.ts
+
 
 #EXTINF:0,Jiangsu TV
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541164&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,KIDS TV
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541162&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,KIX
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541161&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,KOMPAS TV
 #EXTGRP:VISION+
-http://goldenpro.xyz:80/live/194679431759017/8173373055/584467.ts
+
 
 #EXTINF:0,FTV
 #EXTGRP:VISION+
-http://iptv.watchhd.cc:5050/live/didi1909/8mMDqRPor23t/135062.ts
+
 
 #EXTINF:0,Lifetime
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541158&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,loVe NaTuRe
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541157&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,METRO TV
 #EXTGRP:VISION+
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
 
 #EXTINF:0,MNC TV
 #EXTGRP:VISION+
@@ -202,34 +202,34 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/MNC.m3u8
 
 #EXTINF:0,Musik Indonesia
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165844
+
 
 #EXTINF:0,MUSIC TV
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541151&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,BIOSKOP INDONESIA
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165845
+
 
 #EXTINF:0,citra DRAMA
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165847
+#EXTGRP:VISION+
 
 #EXTINF:0,MDTV
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165849
+
 
 #EXTINF:0,NHK WOLRD JAPAN
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165850
+
 
 #EXTINF:0,nickelodeon
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a03f/index.m3u8
+
 
 #EXTINF:0,Outdoor
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165853
+
 
 #EXTINF:0,RCTI
 #EXTGRP:VISION+
@@ -237,63 +237,63 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/RC.m3u8
 
 #EXTINF:0,ROCK entertainment
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165858
+
 
 #EXTINF:0,SOCCER CHANNEL
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165864
+
 
 #EXTINF:0,SPOTV
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a02q/index.m3u8
+
 
 #EXTINF:0,SPOTV 2
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a02o/index.m3u8
+
 
 #EXTINF:0,muslim TV
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541150&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,thrill
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a06t/index.m3u8
+
 
 #EXTINF:0,TRANS 7
 #EXTGRP:VISION+
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541124&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,TRANSTV
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a05f/index.m3u8
+
 
 #EXTINF:0,TRTWORLD
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165873
+
 
 #EXTINF:0,ntv
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165874
+
 
 #EXTINF:0,tvN
 #EXTGRP:VISION+
-http://103.148.44.38:8000/play/a01k/index.m3u8
+
 
 #EXTINF:0,tvNMOVIES
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165876
+
 
 #EXTINF:0,tvone
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165877
+
 
 #EXTINF:0,TVRI
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165878
+
 
 #EXTINF:0,VISION PRIME
 #EXTGRP:VISION+
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1165879
+
 
 #EXTINF:0,ZOOMOO
 #EXTGRP:VISION+
@@ -314,7 +314,7 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/SC.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="VISION+", rtv
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
 
 #EXTINF:-1 group-title="VISION+", DMI TV
 https://tvstreamcast.com/tawaftv.m3u8
@@ -360,35 +360,35 @@ http://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/profile/
 
 #EXTINF:0,VTV
 #EXTGRP:Kartun hiburan
-http://103.148.44.38:8000/play/a09u/index.m3u8
+
 
 #EXTINF:0,MentariTV
 #EXTGRP:Kartun hiburan
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/289946.ts
+
 
 #EXTINF:0,rtv
 #EXTGRP:Kartun hiburan
-http://103.148.44.38:8000/play/a04w/index.m3u8
+
 
 #EXTINF:0,nickelodeon
 #EXTGRP: Kartun hiburan
-http://103.66.62.83:8000/play/a02m/index.m3u8
+
 
 #EXTINF:0,nick jr.
 #EXTGRP: Kartun hiburan
-http://103.148.44.38:8000/play/a03g/index.m3u8
+
 
 #EXTINF:0,ZOOMOO
 #EXTGRP:Kartun hiburan
-http://103.66.62.83:8000/play/a04l/index.m3u8
+
 
 #EXTINF:0,PBS KIDS
 #EXTGRP:Kartun hiburan
-http://103.66.62.83:8000/play/a04u/index.m3u8
+
 
 #EXTINF:0,CBeebies
 #EXTGRP:Kartun hiburan
-http://103.148.44.38:8000/play/a03c/index.m3u8
+
 
 #EXTINF:0,iNEWS
 #EXTGRP:Berita hiburan
@@ -408,51 +408,51 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/cnbindo.m3u8
 
 #EXTINF:0,METRO TV
 #EXTGRP:Berita hiburan
-http://103.66.62.83:8000/play/a00g/index.m3u8
+
 
 #EXTINF:0,IDX CHANNEL
 #EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541168&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,Al JAZEERA ARAB
 #EXTGRP:Berita hiburan
-http://103.66.62.83:8000/play/a03g/index.m3u8
+
 
 #EXTINF:0,Al JAZEERA English
 #EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541215&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,TVRI WORLD
 #EXTGRP:Berita hiburan
-http://103.66.62.83:8000/play/a00p/index.m3u8
+
 
 #EXTINF:0,ABC AUSTRALIA
 #EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541217&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,Bloomberg
 #EXTGRP:Berita hiburan
-http://103.148.44.38:8000/play/a02x/index.m3u8
+
 
 #EXTINF:0,BBC NEWS
 #EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541206&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,cna
 #EXTGRP:Berita hiburan
-http://103.148.44.38:8000/play/a04r/index.m3u8
+
 
 #EXTINF:0,TRTWORLD
 #EXTGRP:Berita hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541122&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,TVRI
 #EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541115&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,INDOSIAR
 #EXTGRP:Informasi hiburan
-http://103.148.44.38:8000/play/a05c/index.m3u8
+
 
 #EXTINF:0,antv
 #EXTGRP:Informasi hiburan
@@ -460,11 +460,11 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/an.m3u8
 
 #EXTINF:0,tvone
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a00s/index.m3u8
+
 
 #EXTINF:0,KOMPAS TV
 #EXTGRP:Informasi hiburan
-http://103.148.44.38:8000/play/a05a/index.m3u8
+
 
 #EXTINF:0,TRANS7
 #EXTGRP:Informasi hiburan
@@ -476,64 +476,61 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/TRNS.m3u8
 
 #EXTINF:0,RCTI
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a00v/index.m3u8
+
 
 #EXTINF:0,MNC TV
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a00w/index.m3u8
+
 
 #EXTINF:0,GTV
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a00y/index.m3u8
+
 
 #EXTINF:0,SCTV
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a00z/index.m3u8
+
 
 #EXTINF:0,MDTV
 #EXTGRP:Informasi hiburan
-http://103.148.44.38:8000/play/a05b/index.m3u8
+
 
 #EXTINF:0,DAAI TV
 #EXTGRP: Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541188&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,nusantara tv
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a04e/index.m3u8
+
 
 #EXTINF:0,KTV
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a04s/index.m3u8
+
 
 #EXTINF:0,celebrities TV
 #EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541195&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,KBS WORLD
 #EXTGRP: Informasi hiburan
-http://103.148.44.38:8000/play/a01l/index.m3u8
+
 
 #EXTINF:0,TV5 MONDE
 #EXTGRP: Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541119&extension=ts&play_token=J4RzsLFWgA
 
-#EXTINF:0,JPN
-#EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a03x/index.m3u8
+
 
 #EXTINF:0,ABN
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a03y/index.m3u8
+
 
 #EXTINF:0,tvN
 #EXTGRP:Informasi hiburan
-http://103.66.62.83:8000/play/a04j/index.m3u8
+
 
 #EXTINF:0 tvg-id="TVChosun.kr@SD" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 #EXTGRP:Informasi hiburan
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+http://onair2.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
 #EXTINF:0 tvg-id="TVChosun2.kr@SD" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv",TV Chosun 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
@@ -542,247 +539,247 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
 #EXTINF:0,FOOD TRAVEL
 #EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541180&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,ent
 #EXTGRP:Informasi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541183&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,TVRI SPORT
 #EXTGRP:Olahraga hiburan
-http://103.66.62.83:8000/play/a00n/index.m3u8
+
 
 #EXTINF:0,MOJI
 #EXTGRP:Olahraga hiburan
-http://103.66.62.83:8000/play/a00i/index.m3u8
+
 
 #EXTINF:0,RedBullTV
 #EXTGRP:Olahraga hiburan
-http://103.66.62.83:8000/play/a03c/index.m3u8
+
 
 #EXTINF:0,SPOTV
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541129&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,SPOTV2
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541128&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,SOCCER CHANNEL
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541132&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 5
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541201&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 4
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541202&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 3
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541203&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 2
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541204&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,beIN SPORTS 1
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541205&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,sportstars 4
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541110&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,sportstars 2
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541112&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,sportstars
 #EXTGRP:Olahraga hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541113&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,astro Arena
 #EXTGRP:Olahraga hiburan
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163983
+
 
 #EXTINF:0,astro Arena 2
 #EXTGRP:Olahraga hiburan
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163657
+
 
 #EXTINF:0,astro Premier League
 #EXTGRP:Olahraga hiburan
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163984
+
 
 #EXTINF:0,astro Premier League 2
 #EXTGRP:Olahraga hiburan
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1163986
+
 
 #EXTINF:0,astro Grandstand
 #EXTGRP:Olahraga hiburan
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775977
+
 
 #EXTINF:0,astro Football
 #EXTGRP:Olahraga hiburan
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:64:07:12&extension=ts&stream=1775978
+
 
 #EXTINF:0,tvMu
 #EXTGRP:Religi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541120&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,TV9
 #EXTGRP:Religi hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541121&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,rodjatv
 #EXTGRP:Religi hiburan
-http://103.148.44.38:8000/play/a04t/index.m3u8
+
 
 #EXTINF:0,wesaltv
 #EXTGRP:Religi hiburan
-http://103.66.62.83:8000/play/a03v/index.m3u8
+
 
 #EXTINF:0,Al Qur'anulkariim
 #EXTGRP:Religi hiburan
-http://103.148.44.38:8000/play/a04u/index.m3u8
+
 
 #EXTINF:0,SAKTI TV
 #EXTGRP:Lokal hiburan
-http://103.66.62.83:8000/play/a03t/index.m3u8
+
 
 #EXTINF:0,Jambi TV
 #EXTGRP:Lokal hiburan
-http://103.66.62.83:8000/play/a00m/index.m3u8
+
 
 #EXTINF:0,BANTEN TV
 #EXTGRP:Lokal hiburan
-http://103.66.62.83:8000/play/a03l/index.m3u8
+
 
 #EXTINF:0,hanacaraka TV
 #EXTGRP:Lokal hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541173&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CCM
 #EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541196&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CELESTIAL MOVIES
 #EXTGRP: Film hiburan
-http://103.148.44.38:8000/play/a02h/index.m3u8
+
 
 #EXTINF:0,CINEEDGE
 #EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541190&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,superrix
 #EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541126&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,STUDIO UNIVERSAL
 #EXTGRP: Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541127&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,ONE
 #EXTGRP: Film hiburan
-http://103.148.44.38:8000/play/a01v/index.m3u8
+
 
 #EXTINF:0,K+
 #EXTGRP:Film hiburan
-http://103.148.44.38:8000/play/a02s/index.m3u8
+
 
 #EXTINF:0,KIX
 #EXTGRP:Film hiburan
-http://103.148.44.38:8000/play/a01i/index.m3u8
+
 
 #EXTINF:0,HITS
 #EXTGRP: Film hiburan
-http://103.148.44.38:8000/play/a01g/index.m3u8
+
 
 #EXTINF:0,HBO
 #EXTGRP:Film hiburan
-http://103.148.44.38:8000/play/a09a/index.m3u8
+
 
 #EXTINF:0,HBO HiTS
 #EXTGRP:Film hiburan
-http://103.66.62.83:8000/play/a02r/index.m3u8
+
 
 #EXTINF:0,HBO family
 #EXTGRP:Film hiburan
-http://103.148.44.38:8000/play/a09d/index.m3u8
+
 
 #EXTINF:0,GALAXY PREMIUM
 #EXTGRP:Film hiburan
-http://103.66.62.83:8000/play/a02w/index.m3u8
+
 
 #EXTINF:0,GALAXY
 #EXTGRP:Film hiburan
-http://103.66.62.83:8000/play/a02x/index.m3u8
+
 
 #EXTINF:0,tvN MOVIES
 #EXTGRP:Film hiburan
-http://103.66.62.83:8000/play/a04k/index.m3u8
+
 
 #EXTINF:0,FLiK
 #EXTGRP:Film hiburan
-http://103.148.44.38:8000/play/a09o/index.m3u8
+
 
 #EXTINF:0,drama CHANNEL
 #EXTGRP:Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541186&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,BuddyStar
 #EXTGRP:Film hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541198&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,CGTN
 #EXTGRP: China hiburan
-http://103.66.62.83:8000/play/a01e/index.m3u8
+
 
 #EXTINF:0,CCTV 2
 #EXTGRP: China hiburan
-http://103.66.62.83:8000/play/a01a/index.m3u8
+
 
 #EXTINF:0,CCTV 4
 #EXTGRP: China hiburan
-http://103.66.62.83:8000/play/a01b/index.m3u8
+
 
 #EXTINF:0,kangbaTV
 #EXTGRP:China hiburan
-http://103.66.62.83:8000/play/a02j/index.m3u8
+
 
 #EXTINF:0,Guangzhou TV
 #EXTGRP:China hiburan
-http://103.66.62.83:8000/play/a03j/index.m3u8
+
 
 #EXTINF:0,Anhui TV
 #EXTGRP:China hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541214&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,Jiansu TV
 #EXTGRP:China hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541164&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:0,NaTuRe Time
 #EXTGRP:Pengetahuan hiburan
-http://103.66.62.83:8000/play/a02o/index.m3u8
+
 
 #EXTINF:0,Outdoor
 #EXTGRP:Pengetahuan hiburan
-http://103.66.62.83:8000/play/a04t/index.m3u8
+
 
 #EXTINF:0,BBC EARTH
 #EXTGRP:Pengetahuan hiburan
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6C:19&stream=1541207&extension=ts&play_token=J4RzsLFWgA
+
 
 #EXTINF:-1,SCTV
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+
 
 #EXTINF: -1,INDOSIAR
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+
 
 #EXTINF:-1,TVOne
 #EXTGRP:clouds
@@ -802,7 +799,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1,Nusantara TV
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
+
 
 #EXTINF:-1,Magna Channel
 #EXTGRP:clouds
@@ -810,11 +807,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTINF:-1,Channel Jowo
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
 
 #EXTINF:-1,JTV
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
+
 
 #EXTINF:-1,Arirang KOREA
 #EXTGRP:clouds
@@ -822,15 +819,15 @@ http://cdn.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 
 #EXTINF:-1,TVRI Nasional 🇮🇩
 #EXTGRP:clouds
-http://103.148.44.38:8000/play/a03t/index.m3u8
+
 
 #EXTINF:-1,TVRI World
 #EXTGRP:clouds
-http://103.148.44.38:8000/play/a03w/index.m3u8
+
 
 #EXTINF:-1,TVRI Sport
 #EXTGRP:clouds
-http://103.148.44.38:8000/play/a05u/index.m3u8
+
 
 #EXTINF:-1,CGTN Documentary
 #EXTGRP:clouds
@@ -846,23 +843,23 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 
 #EXTINF:-1,MiamiTV
 #EXTGRP:clouds
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+
 
 #EXTINF:-1,RTB Aneka HD
 #EXTGRP:clouds
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
 
 #EXTINF:-1,RTB Sukmaindera HD
 #EXTGRP:clouds
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
 
 #EXTINF:-1,RTB GO HD
 #EXTGRP:clouds
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 
 #EXTINF:-1,My Cinema Europe
 #EXTGRP:clouds
-http://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
+
 
 #EXTINF:-1,Makkah TV
 #EXTGRP:clouds
@@ -898,15 +895,15 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,BN Channel
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+
 
 #EXTINF:-1,BeritaSatu
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+
 
 #EXTINF:-1,CCTV-4
 #EXTGRP:clouds
-http://cdn.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
+
 
 #EXTINF:-1,Al Arabiya
 #EXTGRP:clouds
@@ -918,19 +915,19 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1,DubaiSports 1
 #EXTGRP:clouds
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
 
 #EXTINF:-1,DubaiSports 2
 #EXTGRP:clouds
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
 
 #EXTINF:-1,DubaiSports 3	
 #EXTGRP:clouds
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
 
 #EXTINF:-1,Bisnet Adventure 4K
 #EXTGRP:clouds
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
 
 #EXTINF:-1,RealMadrid tv
 #EXTGRP:clouds
@@ -938,4 +935,3 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1,Biznet Kids
 #EXTGRP:clouds
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
