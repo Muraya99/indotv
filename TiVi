@@ -257,11 +257,11 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/RC.m3u8
 
 #EXTINF:0,TRANS 7
 #EXTGRP:VISION+
-
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/7.m3u8
 
 #EXTINF:0,TRANSTV
 #EXTGRP:VISION+
-
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/TRNS.m3u8
 
 #EXTINF:0,TRTWORLD
 #EXTGRP:VISION+
@@ -472,11 +472,11 @@ https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/TRNS.m3u8
 
 #EXTINF:0,RCTI
 #EXTGRP:Informasi hiburan
-
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/RC.m3u8
 
 #EXTINF:0,MNC TV
 #EXTGRP:Informasi hiburan
-
+https://raw.githubusercontent.com/Muraya99/indotv/refs/heads/main/MNC.m3u8
 
 #EXTINF:0,GTV
 #EXTGRP:Informasi hiburan
